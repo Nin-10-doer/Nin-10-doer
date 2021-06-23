@@ -1,16 +1,14 @@
-### Hi there 👋
+# **Dev-Nin**
+***
 
-<!--
-**Nin-10-doer/Nin-10-doer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Finishing my Studies
+- 🌱 I’m currently learning Python, JavaScript, Pixelart, Networking
+- 👯 I’m looking to collaborate on Any Project to Develop Furthermore my Knowledge
+- 🤔 I’m looking for help with Pixelart Basics
+- 💬 Ask me about Python
+- 📫 How to reach me: cesar-nin@hotmail.com
+- 😄 Pronouns: Me, Nin
+- ⚡ Fun fact: I knew nothing about programmin when I started University
+## Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
