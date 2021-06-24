@@ -1,6 +1,6 @@
 # **Dev-Nin**
-![CodeWars](https://www.codewars.com/users/Nin-10-doer/badges/large
-)
+[![CodeWars](https://www.codewars.com/users/Nin-10-doer/badges/large
+ "CodeWars Kata Profile")](https://www.codewars.com/users/Nin-10-doer)
 ***
 
 - 🔭 I’m currently working on finishing my studies
