@@ -1,4 +1,6 @@
 # **Dev-Nin**
+![CodeWars](https://www.codewars.com/users/Nin-10-doer/badges/large
+)
 ***
 
 - 🔭 I’m currently working on finishing my studies
