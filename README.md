@@ -3,7 +3,7 @@
  "CodeWars Kata Profile")](https://www.codewars.com/users/Nin-10-doer)
 ***
 
-- 🔭 I’m currently working on finishing my studies
+- 🔭 Smart Networking and Cybersecurity Engineering Graduate
 - 🌱 I’m currently learning Python, JavaScript, Pixelart, Networking
 - 👯 I’m looking to collaborate on any project to develop furthermore my knowledge
 - 🤔 I’m looking for help with Pixelart Basics
